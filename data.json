@@ -1,0 +1,80 @@
+[
+    {
+        "1": "Full Form of NLP in AI?",
+        "2": "Which of the functions takes a Input in Python ?",
+        "3": " which search method takes less memory ?",
+        "4": "A problem in a search space is defined by one of these state.?",
+        "5": "The Set of actions for a problem in a state space is formulated by a ___________ ?",
+        "6": "The append Method adds value to the list at the  ?",
+        "7": "The process of removing detail from a given state representation is called ______?",
+        "8": " Which search strategy is also called as blind search ?",
+        "9": " What is the space complexity of Depth-first search??",
+        "10": "Which algorithm is used to solve any kind of problem? ?"
+
+
+    },
+    {
+        "1": [
+            "Nature language process",
+            "Natural Language Processing",
+            "Natural Local Processing",
+            "Natural Language Prepare"
+        ],
+        "2": [
+            "get()",
+            "input()",
+            "gets()",
+            "scan()"
+        ],
+        "3": [
+            "Depth-First search",
+            "Breadth_first search",
+            "linear search",
+             "optimal search"
+        ],
+        "4": [
+            " Initial state",
+            "Last state",
+            "Intermediate state",
+            "All of the mentioned"
+
+        ],
+        "5": [
+            " Intermediate states",
+            "Initial state",
+            "Successor function, which takes current action and returns next immediate state",
+            " None of the mentioned"        ],
+        "6": [
+            "custom location",
+            "end",
+            "center",
+            "beginning"
+            ],
+        "7": [
+            "Extraction",
+            "Abstraction",
+            "Information Retrieval",
+            "Mining of data"
+            ],
+        "8": [
+            "Uninformed search",
+            "Informed search",
+            "Simple reflex search",
+            "All of the mentioned"
+            ],
+        "9": [
+            "O(b)",
+            "O(bl)",
+            "O(m)",
+            "O(bm)"
+            ],
+        "10": [
+        "Breadth-first algorithm",
+        "Tree algorithm",
+        "Bidirectional search algorithm",
+        "None of the mentioned"
+            ]
+
+
+    }
+]
